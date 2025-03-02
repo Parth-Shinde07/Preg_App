@@ -6,3 +6,6 @@ AI-Based Health Analysis – Monitors key pregnancy parameters
 ✅ Doctor & Hospital Directory – Provides easy access to healthcare providers
 ✅ Diet & Exercise Tips – Offers personalized suggestions
 ✅ Secure Login & User Dashboard – Ensures data privacy
+
+
+we are facing problem during deployment due to custom domain.
